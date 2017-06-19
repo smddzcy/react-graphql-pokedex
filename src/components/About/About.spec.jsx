@@ -1,7 +1,7 @@
 /* eslint-env mocha */
 
 // Dependecies
-import React from 'React';
+import React from 'react';
 import { expect } from 'chai';
 import { shallow } from 'enzyme';
 
