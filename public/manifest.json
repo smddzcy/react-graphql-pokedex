@@ -1,6 +1,6 @@
 {
-  "name": "React PWA",
-  "short_name": "React PWA",
+  "name": "React & GraphQL Pokedex",
+  "short_name": "React & GraphQL Pokedex",
   "icons": [{
       "src": "assets/images/icons/icon-72x72.png",
       "sizes": "72x72",
